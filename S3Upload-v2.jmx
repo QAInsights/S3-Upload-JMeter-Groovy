@@ -23,11 +23,6 @@
             <stringProp name="Argument.value">${__P(AWS_BUCKET_NAME,)}</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
-          <elementProp name="AWS_REGION" elementType="Argument">
-            <stringProp name="Argument.name">AWS_REGION</stringProp>
-            <stringProp name="Argument.value">${__P(AWS_REGION,)}</stringProp>
-            <stringProp name="Argument.metadata">=</stringProp>
-          </elementProp>
         </collectionProp>
       </elementProp>
       <stringProp name="TestPlan.user_define_classpath"></stringProp>
